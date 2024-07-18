@@ -1,0 +1,29 @@
+.animation {
+    width: 500px;
+    height: 700px;
+    background-color: palegreen;
+}
+.transition {
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+    transition-property: background-color, width, transform;
+    transition-duration: 1s; 
+    transition-delay: 0.5s;
+}
+div:hover{
+    background-color: blueviolet;
+   /*rien mettre dans le hover pour tout ce qui est transition*/
+}
+
+
+
+#test{
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+img{ 
+    transition: transform 1s;
+    
+}

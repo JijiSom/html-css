@@ -1,0 +1,44 @@
+h1 { 
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+
+#Momentfort{ 
+        color: blue;
+        font-size: 30px;
+}
+#Quisuisje {
+         color: blue;
+         font-size: 30px;
+}
+
+p1{ 
+    background-color: grey ;
+}
+p2{
+        background-color: grey;
+}
+
+strong{
+    font-weight: normal;
+    color: yellowgreen;
+}
+
+em{  
+    font-weight:normal;
+    color: orange;
+    font-size: 25px;
+    text-decoration: underline orange;
+
+}
+p{
+    background-color: pink;
+}
+
+   #Perturbation {
+    color: green;
+    text-align: right;
+   text-decoration: underline green;
+
+}

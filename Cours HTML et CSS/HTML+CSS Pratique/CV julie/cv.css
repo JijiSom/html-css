@@ -1,0 +1,76 @@
+.flotte {
+    float:left;
+    }
+
+#h1{ 
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#h2{
+    text-align: center;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#contact{
+    text-align: left;
+    color: white;
+}
+
+#softskills{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+#centreinteret{
+    text-align: left;
+    font-size: 20px;
+}
+
+#competence{
+    font-size: 25px;
+    text-align: left;
+    color:white;
+}
+
+#experience{
+    text-align:left;
+    font-size: 20px;
+    color: white;
+}
+
+ul{
+    text-align: left;
+    font-size: 15px;
+}
+
+ol{  
+    text-align: left;
+    font-weight:bold;
+    color: black;
+}
+
+
+#jesais{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+}
+
+ul{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+#formation{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+body{
+    background-color: darkolivegreen;
+}

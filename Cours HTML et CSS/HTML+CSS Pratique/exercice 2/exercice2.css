@@ -1,0 +1,23 @@
+ ::-moz-selection h1 { 
+    color: blue;
+
+}
+::selection h1 { 
+    color: green;
+}
+
+p:hover{ 
+    background-color: grey;
+}
+
+a:visited{
+    color: lightgray;
+}
+
+img{ 
+    transition: opacity .4s;
+}
+
+img:hover{ 
+    opacity: 0;
+}
